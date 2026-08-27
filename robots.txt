@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kisisel-asistan-muhasebe.netlify.app/sitemap.xml
